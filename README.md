@@ -78,15 +78,10 @@ pyinstaller --onefile --windowed main.py
 
 ![GUI Screenshot](screenshots/gui_screenshot.png)
 
----
-
-## 💼 Use in Resume / Interview
-
-> Developed a GUI-based file encryption system using Python and AES-256, enabling secure file protection and standalone desktop deployment. Implemented password-based encryption and designed a simple, user-friendly interface. Currently at intermediate level with future plans for security and web integration.
 
 ---
 
 ## ⚖ License
 
-This project is open-source under the MIT License.
-# secure-file-encryptor
+This project is open-source under the [MIT License]().
+
