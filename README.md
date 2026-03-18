@@ -83,5 +83,5 @@ pyinstaller --onefile --windowed main.py
 
 ## ⚖ License
 
-This project is open-source under the [MIT License]().
+This project is open-source under the [MIT License](https://github.com/BipronathSaha12/secure-file-encryptor/blob/master/LICENSE).
 
