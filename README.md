@@ -1,4 +1,4 @@
-# 🔐 Secure File Encryption System (Intermediate Level)
+# 🔐 Secure File Encryption System 
 
 A **GUI-based desktop application** for encrypting and decrypting files using **AES-256 encryption**. This project demonstrates **password-based file security**, **desktop GUI development**, and packaging Python applications into a standalone executable.
 
